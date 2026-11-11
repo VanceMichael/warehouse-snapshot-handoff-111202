@@ -1,0 +1,14 @@
+{
+  "assets": [
+    {
+      "asset": "a1",
+      "department": "d1",
+      "status": "active"
+    },
+    {
+      "asset": "a2",
+      "department": "d2",
+      "status": "retired"
+    }
+  ]
+}

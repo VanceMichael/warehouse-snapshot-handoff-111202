@@ -1,0 +1,1 @@
+SCHEMA = {'assets': 'asset TEXT PRIMARY KEY, department TEXT NOT NULL, status TEXT NOT NULL'}

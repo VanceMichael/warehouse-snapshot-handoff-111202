@@ -1,0 +1,12 @@
+[
+  {
+    "department": "d1",
+    "status": "active",
+    "assets": 1
+  },
+  {
+    "department": "d2",
+    "status": "retired",
+    "assets": 1
+  }
+]
